@@ -8,8 +8,8 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/libgo/mysqlx"
 
-	"github.com/libgo/migrate/database"
-	"github.com/libgo/migrate/source"
+	"github.com/izhaohu/migrate/database"
+	"github.com/izhaohu/migrate/source"
 )
 
 func init() {

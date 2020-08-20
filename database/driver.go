@@ -3,7 +3,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/libgo/migrate/source"
+	"github.com/izhaohu/migrate/source"
 )
 
 var (

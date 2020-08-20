@@ -5,11 +5,12 @@ import (
 	"os"
 
 	"github.com/libgo/logx"
-	"github.com/libgo/migrate/database"
-	_ "github.com/libgo/migrate/database/mysql"
-	"github.com/libgo/migrate/internal"
-	"github.com/libgo/migrate/source"
-	_ "github.com/libgo/migrate/source/file"
+
+	"github.com/izhaohu/migrate/database"
+	_ "github.com/izhaohu/migrate/database/mysql"
+	"github.com/izhaohu/migrate/internal"
+	"github.com/izhaohu/migrate/source"
+	_ "github.com/izhaohu/migrate/source/file"
 )
 
 var (

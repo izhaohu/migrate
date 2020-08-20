@@ -5,8 +5,8 @@ import (
 
 	"github.com/libgo/logx"
 
-	"github.com/libgo/migrate/database"
-	"github.com/libgo/migrate/source"
+	"github.com/izhaohu/migrate/database"
+	"github.com/izhaohu/migrate/source"
 )
 
 var (

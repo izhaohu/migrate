@@ -1,4 +1,4 @@
-module github.com/libgo/migrate
+module github.com/izhaohu/migrate
 
 go 1.12
 

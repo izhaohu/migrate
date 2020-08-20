@@ -10,7 +10,7 @@ import (
 
 	"github.com/libgo/logx"
 
-	"github.com/libgo/migrate/source"
+	"github.com/izhaohu/migrate/source"
 )
 
 func init() {
