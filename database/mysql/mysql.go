@@ -6,9 +6,10 @@ import (
 	"time"
 
 	"github.com/jmoiron/sqlx"
+	"github.com/libgo/mysqlx"
+
 	"github.com/libgo/migrate/database"
 	"github.com/libgo/migrate/source"
-	"github.com/libgo/mysqlx"
 )
 
 func init() {

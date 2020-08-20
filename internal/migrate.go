@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/libgo/logx"
+
 	"github.com/libgo/migrate/database"
 	"github.com/libgo/migrate/source"
 )

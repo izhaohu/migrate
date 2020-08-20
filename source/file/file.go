@@ -9,6 +9,7 @@ import (
 	"strconv"
 
 	"github.com/libgo/logx"
+
 	"github.com/libgo/migrate/source"
 )
 
